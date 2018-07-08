@@ -1,0 +1,78 @@
+body {
+                margin: 0;
+                background-color: #cec5ff;
+            }
+            .package-main {
+                width: 300px;
+                margin: 50px;
+                overflow: hidden;
+                background-color: rgb(255, 255, 255);
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            }
+            .main-inpage1 {
+                margin-left: 20px;
+            }
+            .main-inpage2 {
+                width: 156px;
+                position: relative;
+            }
+            .package-download {
+                height: 86px;
+                width: 80px;
+                background-color: #64d98d;
+                position: absolute;
+                top: 0px;
+                right: 0px;
+                
+            }
+            .package-download:hover {
+                background-color: #60cd86;
+            }
+            .fa-download {
+                position: absolute;
+                top: 24px;
+                left: 25px;
+                font-size: 30px;
+                color: aliceblue;
+            }
+            .package-logo {
+                margin: 10px;
+            }
+            .package-info {
+                margin: 10px;
+            }
+            #package-name {
+                font-family: Calibri;
+                margin-bottom: 0;
+            }
+            #package-explain {
+                font-size: 12px;
+            }
+            .down-bar {
+                width: 300px;
+                height: 27px;
+                cursor: default;
+                background-color: white;
+            }
+            .fa-chevron-down {
+                margin-top: 4px;
+                margin-left: 140px;
+            }
+            .package-table {
+                width: 300px;
+                background-color: whitesmoke;
+            }
+            .package-list {
+                margin-top: 10px;
+                bottom: 10px!important;
+            }
+            .package-img {
+                margin: 10px;
+            }
+            .display {
+                display: inline-block;
+            }
+            .package-img-control-1 {
+                position: relative;
+                left: -2px;
+            }
